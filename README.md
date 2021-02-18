@@ -5,6 +5,10 @@ Search for specific words (eg. fuck, love, hate, shit, think, ...)
 Count the words in every post
 extract them and display them in a .txt file 
 -> eg. https://www.reddit.com/r/hyperloop/': 
+- not just the posts but also the comment sections! 
+Count the words in every post,
+extract and display them in a .txt file 
+- eg. https://www.reddit.com/r/hyperloop/': 
 posts found: 812
 comments found: 1556
 'fuck'found: 42 
