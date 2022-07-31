@@ -1,4 +1,4 @@
-# WebWordCounter
+# SubredditWordCounter
 Enter the link of a a subreddit of Reddit (eg. 'https://www.reddit.com/r/hyperloop/') 
 Search for specific words (eg. fuck, love, hate, shit, think, ...) 
 -> not just the posts but also the comment sections! 
